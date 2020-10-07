@@ -8,6 +8,13 @@
     <Copyright>Copyright © Fatih GÜRDAL- 2020</Copyright>
     <PackageTags>.net, .netcore, extension</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/fatihgurdal/ExtensionCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/fatihgurdal/ExtensionCore</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
 
 </Project>
