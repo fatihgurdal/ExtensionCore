@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFrameworks>netcoreapp3.1;netcoreapp2.0;netcoreapp2.1;netcoreapp2.2;netstandard2.0;net472;net452</TargetFrameworks>
+    <Authors>Fatih GÜRDAL</Authors>
+    <Company />
+    <Product>.Net Core Extention Library</Product>
+    <Copyright>Copyright © Fatih GÜRDAL- 2020</Copyright>
+    <PackageTags>.net, .netcore, extension</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
